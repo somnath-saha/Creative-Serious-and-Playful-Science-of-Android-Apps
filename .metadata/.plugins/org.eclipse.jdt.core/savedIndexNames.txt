@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\eclipse-workspace\coursera-app101-illinois\.metadata\.plugins\org.eclipse.jdt.core

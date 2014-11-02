@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;tone&apos; in &apos;com.example.musicplay.MainActivity&apos; to &apos;track1&apos;&#x0D;&#x0A;- Original project: &apos;MusicPlay&apos;&#x0D;&#x0A;- Original element: &apos;com.example.musicplay.MainActivity.tone&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.musicplay.MainActivity.track1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;tone&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.example.musicplay{MainActivity.java[MainActivity^tone" name="track1" references="true" setter="false" stamp="1390581326375" textual="false" version="1.0"/>
+</session>

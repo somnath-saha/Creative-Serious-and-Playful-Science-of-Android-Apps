@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">awesome2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Happy \nNew\nYear\n2014!!!</string>
+    <string name="desc">Beautiful Roses Painted!!!</string>
+    <string name="this_is_desc">this_is_desc</string>
+    <string name="happy_new_year_n_t_t_t_t_t_t_t_t_t2014">Happy New Year \n\t\t\t\t\t\t\t\t\t2014</string>
+    
+</resources>

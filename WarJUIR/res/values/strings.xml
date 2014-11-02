@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">War JUIR</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_warofthe_worlds">WaroftheWorlds</string>
+    <string name="title_activity_jabberwocky">Jabberwocky</string>
+    <string name="title_activity_uof_i__nas">UofI_NASA</string>
+    <string name="title_activity_roundball">Roundball</string>
+    <string name="don_apos_t_press_me_">Don\'t Press Me!</string>
+    <string name="wiki">Wiki</string>
+
+</resources>

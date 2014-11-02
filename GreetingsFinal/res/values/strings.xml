@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Greetings!!!</string>
+    <string name="imglandDesc">New Year Card for landscape</string>
+    <string name="newyear2014Desc">New Year Card for portrait mode</string>
+    
+</resources>

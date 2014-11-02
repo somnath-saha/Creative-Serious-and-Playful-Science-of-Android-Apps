@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Movie Ranks IMDb</string>
+    <string name="h1">#1 The Shawshank Redemption (1994)	</string>
+    <string name="h2">#2 The Godfather (1972)		</string>
+    <string name="h3">#3 The Godfather: Part II (1974)		</string>
+    <string name="h4">#4 The Dark Knight (2008)		</string>
+    <string name="h5">#5 Pulp Fiction (1994)		</string>
+    <string name="text1">        \n142 min  -  Crime | Drama  -  14 October 1994 (USA)
+		\nRatings: 9.3/10 from 1,141,413 votes   
+		\n\nTwo imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+		
+		\n\nDirector: Frank Darabont
+		\nWriters: Stephen King (short story "Rita Hayworth and Shawshank Redemption"), Frank Darabont (screenplay)
+		\nStars: Tim Robbins, Morgan Freeman, Bob Gunton | See full cast and crew at IMDb.
+		
+		\n\nNominated for 7 Oscars. Another 15 wins &amp; 15 nominations. See more at IMDb.		</string>
+    <string name="text2">        \n175 min  -  Crime | Drama  -  24 March 1972 (USA)
+		\nRatings: 9.2/10 from 795,401 votes  
+		\n\nThe aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+		
+		\n\nDirector: Francis Ford Coppola
+		\nWriters: Mario Puzo (screenplay), Francis Ford Coppola (screenplay)
+		\nStars: Marlon Brando, Al Pacino, James Caan | See full cast and crew at IMDb.
+		
+		\n\nWon 3 Oscars. Another 29 wins &amp; 19 nominations.See more awards  at IMDb.	</string>
+    <string name="text3">        \n200 min  -  Crime | Drama  -  20 December 1974 (USA)
+		\nRatings: 9.1/10 from 521,749 votes   
+		\n\nThe early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.
+		
+		\n\nDirector: Francis Ford Coppola
+		\nWriters: Francis Ford Coppola (screenplay), Mario Puzo (screenplay)
+		\nStars: Al Pacino, Robert De Niro, Robert Duvall | See full cast and crew at IMDb.
+			
+		\n\nWon 6 Oscars. Another 11 wins &amp; 16 nominations. See more awards at IMDb.</string>
+    <string name="text4">        \n152 min  -  Action | Crime | Drama  -  18 July 2008 (USA)
+		\nRatings: 9.0/10 from 1,110,840 votes   
+		\n\nWhen Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.
+		
+		\n\nDirector: Christopher Nolan
+		\nWriters: Jonathan Nolan (screenplay), Christopher Nolan (screenplay)
+		\nStars: Christian Bale, Heath Ledger, Aaron Eckhart | See full cast and crew at IMDb.
+		\n\nWon 2 Oscars. Another 94 wins &amp; 69 nominations. See more awards at IMDb.	</string>
+    <string name="text5">	    \n154 min  -  Crime | Drama | Thriller  -  14 October 1994 (USA)
+		\nRatings: 9.0/10 from 882,532 votes
+		\n\nThe lives of two mob hit men, a boxer, a gangster\'s wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+		
+		\n\nDirector: Quentin Tarantino
+		\nWriters: Quentin Tarantino (story), Roger Avary (story)
+		\nStars: John Travolta, Uma Thurman, Samuel L. Jackson | See full cast and crew  at IMDb.
+		
+		 \n\nWon 1 Oscar. Another 61 wins &amp; 46 nominations. See more awards at IMDb.	</string>
+    <string name="desc">Movie Cover Poster		</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="title_activity_main_activity4">MainActivity4</string>
+    <string name="title_activity_main_activity5">MainActivity5</string>
+    <string name="next">Next</string>
+    <string name="wiki">Wiki</string>
+    <string name="imdb">IMDb</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_mainstart">MainActivity</string>
+    <string name="title_activity_main_activity_start">MainActivityStart</string>
+    <string name="title_activity_start">Movie Ranker</string>
+
+</resources>

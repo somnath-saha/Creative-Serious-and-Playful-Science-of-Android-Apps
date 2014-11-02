@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">greetings</string>
+    <string name="msg">
+        Dear friends, \n\nMy heartiest wishes for a very prosperous new year. May you be successful in all of your educational endeavours.
+        The coming year will surely be enjoyable, lovely, and financially rewarding. \n\nBest wishes, \nSomnath \nINDIA
+        </string>
+    <string name="wish">Happy\nNew\nYear\n2014!!!</string>
+        
+
+</resources>

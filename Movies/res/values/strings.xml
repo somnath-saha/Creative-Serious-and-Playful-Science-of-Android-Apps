@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movies</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">        
+        Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.		</string>
+    <string name="text2">        
+        The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.		</string>
+    <string name="text3">        
+        The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.		</string>
+    <string name="text4">        
+        When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.		</string>
+    <string name="text5">        
+        The lives of two mob hit men, a boxer, a gangster\'s wife, and a pair of diner bandits intertwine in four tales of violence and redemption.		</string>
+    <string name="desc">Movie Cover Poster		</string>
+
+</resources>

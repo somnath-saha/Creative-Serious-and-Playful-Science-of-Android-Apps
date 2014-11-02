@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.musicplay.R.raw"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="abc.def.topmovies.MainActivity"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="course.labs.activitylab.R.id"/>
+<fullyQualifiedTypeName name="course.labs.activitylab.ActivityOne"/>
+<fullyQualifiedTypeName name="course.labs.activitylab.ActivityTwo"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="abc.def.topmovies.R.drawable"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="abc.def.topmovies.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="course.labs.intentslab.ExplicitlyLoadedActivity"/>
+<fullyQualifiedTypeName name="course.labs.intentslab.ActivityLoaderActivity"/>
+<fullyQualifiedTypeName name="course.labs.permissionslab.BookmarksActivity"/>
+<fullyQualifiedTypeName name="course.labs.permissionslab.GoToDangerousActivity"/>
+<fullyQualifiedTypeName name="android.app.FragmentManager"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoManagerActivity"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.AddToDoActivity"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.widget.RelativeLayout"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.webkit.WebView.FindListener"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.layout"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.drawable"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoItem.Status"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.id"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoItem"/>
+</qualifiedTypeNameHistroy>

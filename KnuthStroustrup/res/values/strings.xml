@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knuth&amp;Stroustrup</string>
+    <string name="heading">Donald Knuth</string>
+    <string name="heading2">Bjarne Stroustrup</string>
+    <string name="imageinfo">Donald Knuth at a lecture</string>
+    <string name="imageinfo2">Bjarne Stroustrup in his office</string>
+    <string name="desc"><b>Donald Ervin Knuth</b> is an American computer scientist, mathematician, and 
+	    Professor Emeritus at Stanford University.
+		He is the author of the multi-volume work <i>The Art of Computer Programming</i>.
+		Knuth has been called the \"father\" of the analysis of algorithms. 
+		He contributed to the development of the rigorous analysis of the computational 
+		complexity of algorithms and systematized formal mathematical techniques for it. 
+		In the process he also popularized the asymptotic notation. In addition to fundamental 
+		contributions in several branches of theoretical computer science, Knuth is the 
+		creator of the TeX computer typesetting system, the related METAFONT font 
+		definition language and rendering system, and the Computer Modern family of typefaces.
+		As a writer and scholar, Knuth created the WEB and CWEB computer programming systems 
+		designed to encourage and facilitate literate programming, and designed the 
+		MIX/MMIX instruction set architectures.
+		
+		\n\n<b>Known for	</b>		\n*The Art of Computer Programming\n*TEX, METAFONT
+		\n*Knuth–Morris–Pratt algorithm
+		\n*Knuth–Bendix completion algorithm
+		\n*MMIX
+		\n*Robinson–Schensted–Knuth correspondence
+		
+		\n\n<b>Notable awards	</b>		\n*Turing Award (1974)
+		\n*National Medal of Science (1979)
+		\n*John von Neumann Medal (1995)
+		\n*Harvey Prize (1995)
+		\n*Kyoto Prize (1996)
+		\n\nText from Wikipedia</string>
+    <string name="desc2"><b>Bjarne Stroustrup</b> is a Danish computer scientist, most notable for 
+	    the creation and development of the widely used C++ programming language. He is currently 
+	    Professor and holder of the College of Engineering Chair in Computer Science at Texas A&amp;M 
+	    University.		
+		Stroustrup began developing C++ in 1978 (then called \"C with Classes\"), and, in his own 
+		words, \"invented C++, wrote its early definitions, and produced its first implementation&#8230; chose
+		 and formulated the design criteria for C++, designed all its major facilities, and was 
+		responsible for the processing of extension proposals in the C++ standards committee.\" 
+		Stroustrup also wrote what many consider to be the standard textbook for the language, 
+		The C++ Programming Language.
+		Stroustrup was the head of AT&amp;T Lab\'s Large-scale Programming Research department, 
+		from its creation until late 2002. Stroustrup was elected member of the National Academy 
+		of Engineering in 2004. He is a Fellow of the ACM (1994) and an IEEE Fellow. He currently 
+		works at Texas A&amp;M University, United States, as a Distinguished Professor where he 
+		holds the College of Engineering Endowed Chair in Computer Science.
+		
+		\n\n<b>Notable awards</b>		\n*Grace Murray Hopper Award (1993)
+		\n*IEEE Computer Society Computer Entrepreneur Award (2004)
+		\n*William Procter Prize for Scientific Achievement (2005)
+		\n*Dr. Dobb\'s Excellence in Programming award (2008)
+		\n\nText from Wikipedia</string>
+
+</resources>
